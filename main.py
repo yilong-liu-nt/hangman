@@ -13,6 +13,7 @@ from time import sleep
 # import nltk
 # nltk.download('words')
 
+# Yilong's first code
 
 letters_guessed = []
 massive_list = list(words.words())
